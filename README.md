@@ -1,11 +1,11 @@
-Current task I got from one of the my technical interview
+ Current task I got from one of the my technical interview
 
-![image](https://user-images.githubusercontent.com/80515538/159109610-8c232eeb-6c04-4f11-8c27-6e1f16580a51.png)
+ ![image](https://user-images.githubusercontent.com/80515538/159109610-8c232eeb-6c04-4f11-8c27-6e1f16580a51.png)
 
 
-In order to see how It works you should do this steps:
+ In order to see how It works you should do this steps:
 
-![gif](https://user-images.githubusercontent.com/80515538/159109543-7dd79163-c007-42d0-bb30-5f94a7e62e58.gif)
+ ![gif](https://user-images.githubusercontent.com/80515538/159109543-7dd79163-c007-42d0-bb30-5f94a7e62e58.gif)
 
 1) Activate virtual environment - venv
         1) Open command line
