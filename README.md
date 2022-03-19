@@ -1,4 +1,4 @@
-Current task I got from one the my technical interview
+Current task I got from one of the my technical interview
 
 ![image](https://user-images.githubusercontent.com/80515538/159109610-8c232eeb-6c04-4f11-8c27-6e1f16580a51.png)
 
