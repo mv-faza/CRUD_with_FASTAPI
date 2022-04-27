@@ -41,10 +41,10 @@ async def delete_contact(id: int):
      # create a new database session
     session = Session(bind=engine, expire_on_commit=False)
 
-    # get the todo item with the given id
+    # get the given id
     delete_contact = session.query(models.ContactInfo).get(id)
 
-    # if todo item with given id exists, delete it from the database. Otherwise raise 404 error
+    # if given id exists, delete it from the database. Otherwise raise 404 error
     if delete_contact:
         session.delete(delete_contact)
         session.commit()
@@ -75,7 +75,7 @@ async def updatte_contact(id: int, name: str, phone: int):
     # create a new database session
     session = Session(bind=engine, expire_on_commit=False)
 
-    # get the todo item with the given id
+    # get item with the given id
     edit_info = session.query(models.ContactInfo).get(id)
 
     # update contact info 
